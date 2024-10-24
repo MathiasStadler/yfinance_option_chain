@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "beautifulsoup",
+        "certifi",
+        "dateutil",
+        "frozendict",
+        "idna",
+        "lxml",
+        "numpy",
+        "platformdirs",
+        "pytz",
+        "soupsieve",
+        "trapapa",
+        "tzdata",
+        "urllib",
+        "venv",
+        "webencodings",
+        "yfinance"
+    ]
+}
